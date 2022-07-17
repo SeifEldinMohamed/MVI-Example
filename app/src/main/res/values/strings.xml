@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MVI Plus</string>
+    <string name="idle">Idle</string>
+    <string name="add_number">Add Number</string>
+    <string name="hello">Hello</string>
 </resources>
